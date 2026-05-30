@@ -1,15 +1,10 @@
 # JavaScript Learning
-A collection of projects and exercises built while learning JavaScript.
+
+A collection of projects built while learning JavaScript.
 
 ## Projects
 
-### Parking Lot Manager
+1. [Parking Lot Manager](https://github.com/an229-h/parkingLot) *(Archived)*
+   Simple parking lot management system.
 
-A simple parking lot management system.
-
-Repository: https://github.com/an229-h/parkingLot
-Status: Archived
-
----
-
-More projects will be added over time.
+More projects coming soon.
